@@ -1,0 +1,17 @@
+{
+  "Masha": {
+    "title": "Post by Masha",
+    "body": "My name is Masha",
+    "userId": 1
+  },
+  "Ivan": {
+    "title": "Post by Ivan",
+    "body": "My name is Ivan",
+    "userId": 2
+  },
+  "Sasha": {
+    "title": "Post by Sasha",
+    "body": "My nam is Saaha",
+    "userId": 3
+  }
+}
